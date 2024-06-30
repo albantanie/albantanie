@@ -10,15 +10,15 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Tentang Saya**
 
-<picture> <img align="right" src="https://avatars.githubusercontent.com/u/86911554?v=4" width = 250px></picture>
+<picture> <img align="right" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width = 250px></picture>
 
 <br>
 
 - Seorang Software Engineer dengan pengalaman lebih dari 3 tahun
-- Bermain CTF di waktu luang
-- Saat ini belajar pengembangan web secara mandiri
-- [Website pribadi](https://albantanie.tech)
-- Saat ini terbuka untuk peluang magang atau pekerjaan baru, ini adalah [resume saya](https://read.cv/0xabdulkhalid)
+- Muridnya Pak [Prof Onno W. Purbo](https://id.wikipedia.org/wiki/Onno_W._Purbo)
+- Mahasiswa [Institut Teknologi Tangerang Selatan](https://itts.ac.id)
+- Mengenal lebih banyak tentang Faiz [Website pribadi](https://albantanie.tech)
+- Saat ini terbuka untuk peluang magang atau pekerjaan baru, ini adalah [Download CV](https://drive.albantanie.tech/share/zzvTflxV) Password : cv-faiz
 
 <br><br>
 
@@ -55,7 +55,8 @@
 
 - **Hosting dan Cloud**:
 
-    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Microsoft Azure](https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId)
+    ![Google Cloud]()
     
 <br>
 
@@ -71,7 +72,7 @@
 - **Ekstra**:
 
     ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Docker](https://img.shields.io/docker/cloud/automated/:user/:repo) 
 
 
 </p>
@@ -174,6 +175,6 @@
 
 Credit: [Syahrul Faiz Ramdhani] https://github.com/albantanie
 
-Last Edited on: 30/06/2024
+Last Edited on: 01/07/2024
 
 ---
