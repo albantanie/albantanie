@@ -8,7 +8,7 @@
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
+## <picture><img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="50px"></picture> About Me
 
 <p align="left">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
@@ -16,10 +16,9 @@
 
 - 👨‍💻 Software Engineer with 3+ years of experience
 - 📘 Mentee of [Prof. Onno W. Purbo](https://id.wikipedia.org/wiki/Onno_W._Purbo)
-- 🎓 Studying at [Institut Teknologi Tangerang Selatan](https://itts.ac.id)
-- 🌐 Personal Website: [albantanie.tech](https://albantanie.tech)
-- 💼 Currently open for **internships** or **job opportunities**
-- 📄 View my [CV here](https://drive.albantanie.tech/share/zzvTflxV) (Password: `cv-faiz`)
+- 🎓 Graduated from [Institut Teknologi Tangerang Selatan](https://itts.ac.id)
+- 🌐 Personal Website: [s.id/syahrulfaizramdhani](https://s.id/syahrulfaizramdhani)
+- 💼 Currently open for **job opportunities**
 
 ---
 
@@ -81,27 +80,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albantanie&layout=compact&theme=tokyonight" width="375" alt="Top Languages"/>
   </a>
 </div>
-
----
-
-## 🤝 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/syahrulfaizramdhani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-syahrulfaizramdhani-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:syahrulfaiz30102003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-syahrulfaiz-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/albaantanie" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-albaantanie-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/syahrulfaizramdhani" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-syahrulfaizramdhani-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@faizrabit" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-faizrabit-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
